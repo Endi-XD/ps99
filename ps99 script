@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Endi-XD/ps99/refs/heads/main/ps99script"))()
